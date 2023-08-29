@@ -61,6 +61,10 @@ p {
   color: var(--muted-color);
 }
 
+.yoghurt {
+  padding: 32px 8px;
+}
+
 h2 {
   font-family: var(--primary-font);
   font-weight: bold;
@@ -102,5 +106,9 @@ h2 {
   .project-description {
     padding: 0;
     text-align: center;
+  }
+
+  div.row.mb-5 {
+    margin-top: 50px;
   }
 }
